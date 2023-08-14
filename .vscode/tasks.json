@@ -1,0 +1,26 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "src/*.cpp",
+                "-o",
+                "bin/app.exe",
+                "-I",
+                "C:\\Users\\Chris\\Desktop\\SFML-2.6.0\\include",
+                "-L",
+                "C:\\Users\\Chris\\Desktop\\SFML-2.6.0\\lib",
+                "-lsfml-graphics",
+                "-lsfml-window",
+                "-lsfml-system"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
