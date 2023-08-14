@@ -21,10 +21,11 @@ This code is a c++ SFML integration of verlet physics solving. I have done this 
 ## How to Use
 
 1. Install dependencies (install SFML on your machine, follow the instructions on the [official website](https://www.sfml-dev.org/download.php)).
-2. Compile and run the project.
-3. Enter the desired number of particles at the start.
-4. Watch as the particles move, collide, and react to gravity.
-5. Add more particles by clicking anywhere within the window. The number of particles will be displayed in the console.
+2. Modify or remove the .vscode folder and tailor it to your system
+3. Compile and run the project.
+4. Enter the desired number of particles at the start.
+5. Watch as the particles move, collide, and react to gravity.
+6. Add more particles by clicking anywhere within the window. The number of particles will be displayed in the console.
 
 ## Code Structure
 
