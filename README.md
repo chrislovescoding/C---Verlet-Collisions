@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Although this is my first repo, I have been coding for a long time now. I have countless projects and will upload these projects onto my account.
+Although this is my first repository, I have been coding for a long time now. I have countless projects and will upload these projects onto my account.
 
 I was inspired by [Pezzza's work youtube channel](https://www.youtube.com/@PezzzasWork)
 
